@@ -36,7 +36,7 @@ const products = [
     },
     {
         id: 4,
-        name: "Country Chicken Oeuf",
+        name: "Oeuf du pays",
         price: 1000,
         quantity: 200,
         image: image4,
@@ -52,7 +52,7 @@ const products = [
     },
     {
         id: 6,
-        name: "Fresh Farm Eggs",
+        name: "Fresh Eggs",
         price: 4.99,
         quantity: 500,
         image: image6,

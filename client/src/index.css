@@ -274,3 +274,30 @@ nav a:hover{
     color: inherit;
     font-weight: bold;
   }
+
+  /* Products styles */
+
+ @media (min-width: 768px) {
+  .product-item{
+    display: flex;
+    gap: 20px;
+    margin: 2em;
+    justify-content: center;
+  }
+  .product-item img{
+    width: 50%;
+
+  }
+  .product-infos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .menu{
+    margin-right: 0;
+  }
+  .product-desc a{
+
+    display: inline;
+}
+ }
