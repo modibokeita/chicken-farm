@@ -4,7 +4,7 @@ const products = [
         name: "Free-Range Chicken",
         price: 15.99,
         quantity: 20,
-        image: "https://example.com/free-range-chicken.jpg",
+        image: "./assets/images/1.jpeg",
         category: "chicken"
     },
     {
@@ -12,7 +12,7 @@ const products = [
         name: "Organic Chicken",
         price: 18.50,
         quantity: 15,
-        image: "https://example.com/organic-chicken.jpg",
+        image: "./assets/images/2.jpeg",
         category: "chicken"
     },
     {
@@ -20,7 +20,7 @@ const products = [
         name: "Broiler Chicken",
         price: 12.99,
         quantity: 30,
-        image: "https://example.com/broiler-chicken.jpg",
+        image: "./assets/images/3.jpeg",
         category: "chicken"
     },
     {
@@ -28,7 +28,7 @@ const products = [
         name: "Country Chicken",
         price: 20.99,
         quantity: 10,
-        image: "https://example.com/country-chicken.jpg",
+        image: "./assets/images/4.jpeg",
         category: "chicken"
     },
     {
@@ -36,7 +36,7 @@ const products = [
         name: "Grilled Chicken Pack",
         price: 25.00,
         quantity: 5,
-        image: "https://example.com/grilled-chicken.jpg",
+        image: "./assets/images/5.jpeg",
         category: "chicken"
     },
     {
@@ -44,7 +44,7 @@ const products = [
         name: "Fresh Farm Eggs (12 pcs)",
         price: 4.99,
         quantity: 50,
-        image: "https://example.com/farm-eggs.jpg",
+        image: "./assets/images/6.jpeg",
         category: "eggs"
     },
     {
@@ -52,7 +52,7 @@ const products = [
         name: "Organic Brown Eggs (12 pcs)",
         price: 6.50,
         quantity: 40,
-        image: "https://example.com/brown-eggs.jpg",
+        image: "./assets/images/7.jpeg",
         category: "eggs"
     },
     {
@@ -60,7 +60,7 @@ const products = [
         name: "Large White Eggs (24 pcs)",
         price: 9.99,
         quantity: 30,
-        image: "https://example.com/white-eggs.jpg",
+        image: "./assets/images/8.jpeg",
         category: "eggs"
     },
     {
@@ -68,7 +68,7 @@ const products = [
         name: "Omega-3 Enriched Eggs (12 pcs)",
         price: 7.50,
         quantity: 25,
-        image: "https://example.com/omega3-eggs.jpg",
+        image: "./assets/images/9.jpeg",
         category: "eggs"
     },
     {
@@ -76,7 +76,7 @@ const products = [
         name: "Quail Eggs (24 pcs)",
         price: 5.99,
         quantity: 35,
-        image: "https://example.com/quail-eggs.jpg",
+        image: "./assets/images/10.jpeg",
         category: "eggs"
     }
 ];

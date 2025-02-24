@@ -22,9 +22,9 @@ const [show, setShow] = useState(false);
         </div>
         {show && <nav>
             <Link to="/">Home</Link>
-            <Link to="/shop">Shop</Link>
-            <Link to="/about">About</Link>
-            <Link to="/contact">Contact</Link>
+            <Link to="products">Products</Link>
+            <Link to="about">About</Link>
+            <Link to="contact">Contact</Link>
         </nav>}
     </header>
   )
